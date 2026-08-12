@@ -1,4 +1,9 @@
+
 <div align="center">
+
+<img src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif" width="400"/>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Sandip%20Kumar%20Jha&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -138,16 +143,6 @@ A movie discovery app with search and browsing, built on the TMDB API with Redux
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sandipkumarjha&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandipkumarjha&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipkumarjha&layout=compact&hide_border=true" width="49%"/>
-
-</div>
 
 <br/>
 
